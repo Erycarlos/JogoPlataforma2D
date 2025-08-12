@@ -46,7 +46,7 @@ public class Player : MonoBehaviour
         }
 
         animator.SetBool("Andando",andando);
-        animator.SetBool("Pulo",!noChao);
+        animator.SetBool("Rolando",!noChao);
         
     }
 
