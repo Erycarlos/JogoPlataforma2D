@@ -24141,14 +24141,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 313771460}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 49.28, y: -2.59, z: 0.6722}
+  m_LocalRotation: {x: -0, y: 0.0032905326, z: -0, w: 0.9999946}
+  m_LocalPosition: {x: 48.01, y: -2.59, z: 0.68}
   m_LocalScale: {x: 1.0795, y: 1.0795, z: 1.0795}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 519420032}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0.377, z: 0}
 --- !u!114 &313771464
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24956,6 +24956,7 @@ GameObject:
   - component: {fileID: 716453170}
   - component: {fileID: 716453169}
   - component: {fileID: 716453168}
+  - component: {fileID: 716453172}
   m_Layer: 0
   m_Name: Portal
   m_TagString: Untagged
@@ -25171,6 +25172,19 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &716453172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 716453166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df758ed39e033e443afbc48a0b945057, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nomeDaCena: 
 --- !u!1 &756418713
 GameObject:
   m_ObjectHideFlags: 0
