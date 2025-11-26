@@ -92259,7 +92259,7 @@ Transform:
   m_GameObject: {fileID: 655461872}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 304.54, y: -2.48, z: 0}
+  m_LocalPosition: {x: 301.46, y: -0.83, z: 0}
   m_LocalScale: {x: 5.884, y: 5.884, z: 5.884}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -98956,7 +98956,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distanciaDeVisao: 10
-  velocidade: 5
+  velocidade: 4
 --- !u!61 &1290392407
 BoxCollider2D:
   m_ObjectHideFlags: 0
