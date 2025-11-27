@@ -771,6 +771,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2362742776230954439, guid: e7e7134e2879c574f894652a34863de9, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 8463134959246542951, guid: e7e7134e2879c574f894652a34863de9, type: 3}
       propertyPath: m_Name
       value: knight_0
@@ -1721,7 +1725,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 73
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!1 &246517422
 GameObject:
